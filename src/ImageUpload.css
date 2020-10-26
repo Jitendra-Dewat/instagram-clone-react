@@ -1,0 +1,28 @@
+.imageupload {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* background-color: white;
+    border-top: 1px solid lightgray; */
+}
+
+.imageupload_progress {
+    width: 100%;
+    
+}
+
+.imageupload_caption {
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+
+.imageupload__heading {
+    display: flex;
+    padding-left:70px;
+    margin-bottom: 4px;
+    color: #666666;
+}
