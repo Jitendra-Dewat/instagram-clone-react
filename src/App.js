@@ -4,7 +4,7 @@ import Post from './Post';
 import {makeStyles} from '@material-ui/core/styles';
 import Modal from "@material-ui/core/Modal";
 import { db, auth } from './firebase';
-import { Button, Input } from '@material-ui/core';
+import { Button } from '@material-ui/core';
 import ImageUload from './ImageUpload';
 import Developer from './Developer'
 import InstagramEmbed from'react-instagram-embed';
